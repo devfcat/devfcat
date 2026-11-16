@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yejin Kim
 
-<!--
-**devfcat/devfcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sookmyung Women's University**  
+*Mar 2022 – Feb 2027 (Expected)*
+
+B.S. Double Major in IT Engineering and Applied Physics
+
+<br>
+
+**Center for Science Gifted Education, Cheongju National University of Education (CCSGE)**  
+*2014 – 2018*
+
+- Science Gifted Education Program
+- Physics Research Mentorship Program
+
+---
+
