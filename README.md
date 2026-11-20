@@ -1,6 +1,6 @@
-# Devfcat
+# Devfcat (devfcat@gmail.com)
 <p align="center">
-  <img src="./tree.gif" width="400" alt="rotating christmas tree">
+  <img src="./tree.gif" width="200" alt="rotating christmas tree">
 </p>
 ---
 
