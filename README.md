@@ -1,13 +1,29 @@
-# Devfcat (devfcat@gmail.com)
 <p align="center">
   <img src="./tree.gif" width="200" alt="rotating christmas tree">
 </p>
+
+# Devfcat
+
+Unity developer building hardware-integrated interactive games for kids.
+Also making visual novels and puzzle games.
+
+📍 Seoul, Korea
+
+---
+
+### 💼 Experience
+
+**Unity Developer**
+*Oct 2026 – Present*
+- Develop interactive Unity games for children
+- Integrate games with physical hardware
+
 ---
 
 ### 🎓 Education
 
 **Sookmyung Women's University**  
-*Mar 2022 – Feb 2027 (Expected)*
+*Mar 2022 – Feb 2027 (Expected)*  
 B.S. Double Major in IT Engineering and Applied Physics
 
 <br>
@@ -19,3 +35,6 @@ B.S. Double Major in IT Engineering and Applied Physics
 
 ---
 
+### 📫 Contact
+
+- Email: devfcat@gmail.com
