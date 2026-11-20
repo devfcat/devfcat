@@ -1,5 +1,7 @@
 # Devfcat
-
+<p align="center">
+  <img src="./tree.gif" width="400" alt="rotating christmas tree">
+</p>
 ---
 
 ### 🎓 Education
